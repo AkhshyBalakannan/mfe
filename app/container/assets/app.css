@@ -1,0 +1,24 @@
+.navbar {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 18px;
+    border-bottom: 1px solid black;
+}
+
+.navbar a {
+    color: black;
+    text-transform: capitalize;
+    text-decoration: none;
+    font-size: 32px;
+    font-weight: 500;
+}
+
+.body-content {
+    text-align: center;
+    font-size: 24px;
+}
+
+.body-content a {
+    padding: 20px;
+    margin-top: 18px;
+}
